@@ -38,6 +38,7 @@ Revenue Drivers: Identified a direct correlation between station capacity and da
 Strategic Optimization: Discovered that cities like Jcdecauxbike and Lund lead in efficiency, providing a template for scaling underperforming regions.
 
 Operational Readiness: The dashboard monitors the 'Sum of Available Bikes' to ensure stations are never empty during peak hours.
+![Dashboard Screenshot](Dashboard.png)
 
 Author: UGESHPRASANNA
 
